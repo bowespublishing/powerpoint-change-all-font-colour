@@ -12,3 +12,7 @@ Maybe add options to target certain colours
 Tidy code
 
 Add comments
+
+INSTALL
+
+If you don't know how to install a PowerPoint add-in see this video here - https://www.youtube.com/watch?v=KWmOMI291LE

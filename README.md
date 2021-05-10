@@ -3,7 +3,7 @@ VBA code to change the font colour of all the text in a PowerPoint presentation.
 
 TO-DO
 
-Create toolbar/button on ribbon
+Create toolbar/button on ribbon - Done
 
 Add colour picker
 
